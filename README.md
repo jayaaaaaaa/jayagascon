@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jaya
 - 👀 I’m interested in ... AI
-- 🌱 I’m currently learning ... Machine Learning, Deep Learning, Computer Vision
-- 💞️ I’m looking to collaborate on ... Anything cool
+- 🌱 I’m currently learning ... machine learning, deep learning, computer vision
+- 💞️ I’m looking to collaborate on ... naything cool
 - 📫 How to reach me ... csm5424@autuni.ac.nz :)
 
 <!---
