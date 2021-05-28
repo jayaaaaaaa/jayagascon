@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Jaya
-- 👀 I’m interested in ... AI
-- 🌱 I’m currently learning ... machine learning, deep learning, computer vision
-- 💞️ I’m looking to collaborate on ... naything cool
-- 📫 How to reach me ... csm5424@autuni.ac.nz :)
+- 👋 hi, i’m jaya
+- 👀 i’m interested in ... AI
+- 🌱 i’m currently learning ... machine learning, deep learning, computer vision
+- 💞️ i’m looking to collaborate on ... anything cool
+- 📫 how to reach me ... csm5424@autuni.ac.nz :)
 
 <!---
 jayagascon/jayagascon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
